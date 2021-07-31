@@ -1,4 +1,5 @@
 About the Visualization
+
 Messaging: From 2009 to 2020, Airbnb market is expanding rapidly across silicon valley. The market size has increasing significantly, and now it covers most of the cities in Silicon Valley. Also the composition is becoming more diverse in different dimensions.
 
 Narrative: Structure This visualization project uses the interactive slideshow hybrid structure to guide users through various selected scenarios. Market exploration in different dimensions are displayed in each slide. Each slide can be navigated using arrows at left or right, or using the navigation dots on top, or use keyboard left and right buttons.
